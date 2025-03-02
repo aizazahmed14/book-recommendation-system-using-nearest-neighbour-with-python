@@ -28,6 +28,8 @@ cd Book-Recommendation-System
 pip install pandas scikit-learn
 ```
 **3. Download the dataset and update the file path in the script.**
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 **4. Run the script:**
 ```bash
 python book_recommendation.py
